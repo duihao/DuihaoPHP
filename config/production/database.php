@@ -11,49 +11,14 @@ return [
     "default"     => [
         "master" => [
             [
-                'host'      => '192.168.1.235',
-                'database'  => 'dg2010',
+                'host'      => '192.168.1.1',
+                'database'  => 'jo3',
                 'username'  => 'root',
-                'password'  => 'douguo2015',
+                'password'  => '111111',
                 'charset'   => 'utf8',
                 'port'      => '3306',
                 'collation' => 'utf8_unicode_ci',
             ]
-        ],
-        "slave"  => [
-            [
-                'host'      => '192.168.1.235',
-                'database'  => 'dg2010',
-                'username'  => 'root',
-                'password'  => 'douguo2015',
-                'port'      => '3306',
-                'charset'   => 'utf8',
-                'collation' => 'utf8_unicode_ci',
-            ]
-        ]
-    ],
-    "douguo_core" => [
-        "master" => [
-            [
-                'host'      => '192.168.1.235',
-                'database'  => 'dg2010',
-                'username'  => 'root',
-                'password'  => 'douguo2015',
-                'port'      => '3306',
-                'charset'   => 'utf8',
-                'collation' => 'utf8_unicode_ci',
-            ]
-        ],
-        "slave"  => [
-            [
-                'host'      => '192.168.1.235',
-                'database'  => 'dg2010',
-                'username'  => 'root',
-                'password'  => 'douguo2015',
-                'port'      => '3306',
-                'charset'   => 'utf8',
-                'collation' => 'utf8_unicode_ci',
-            ]
-        ]
-    ]
+        ] 
+    ] 
 ];
