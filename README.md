@@ -1,4 +1,4 @@
-# DuihaoPHP V3.0 Bate
+# DuihaoPHP V1.0 Bate
 ===============
 > 运行环境要求PHP7.4+。
 由[对号科技]荣誉出品的PHP版轻量级MVC框架。
