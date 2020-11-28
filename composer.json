@@ -1,0 +1,21 @@
+{
+    "name": "DuihaoPHP/framework",
+    "description": "The DuihaoPHP Framework.",
+    "keywords": [
+        "DuihaoPHP-framework",
+        "DuihaoPHP"
+    ],
+    "homepage": "http://duihao.cn/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liuyadong",
+            "email": "lyd@duihao.com"
+        }
+    ],
+    "require": {
+        "cheprasov/php-redis-client": "^1.7",
+        "vlucas/valitron": "^1.4",
+        "firebase/php-jwt": "^5.2"
+    }
+}
